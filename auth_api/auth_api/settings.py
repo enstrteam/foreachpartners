@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-5pr!0(#ce48#ko2dyfsxn*!oe6ht!6jj9ohi()vy&oi@y53nmu
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['enstrteam.pythonanywhere.com']
 
 
 # Application definition
@@ -155,3 +155,4 @@ CONSTANCE_CONFIG = {
 CONSTANCE_BACKEND = 'constance.backends.database.DatabaseBackend'
 
 STATIC_ROOT = '/home/enstrteam/myAPI/foreachpartners/static'
+
