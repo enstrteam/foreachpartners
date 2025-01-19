@@ -154,5 +154,5 @@ CONSTANCE_CONFIG = {
 
 CONSTANCE_BACKEND = 'constance.backends.database.DatabaseBackend'
 
-STATIC_ROOT = '/home/enstrteam/myAPI/foreachpartners/static'
+STATIC_ROOT = '/home/enstrteam/foreachpartners/auth_api/static/'
 
